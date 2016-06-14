@@ -1,0 +1,22 @@
+
+<ol>
+<li>
+<p>You meet all of your best friends in elevators</p>
+</li>
+<li>
+<p>You like vaults too</p>
+</li>
+</ol>
+
+
+<ul>
+<li>
+<p>You are in detroit</p>
+</li>
+<li>
+<p>You like the Cavs</p>
+</li>
+<li>
+<p>You are in a Quicken Loans Bldg</p>
+</li>
+</ul>
